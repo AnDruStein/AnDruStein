@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AnDruStein.
-- 👀 I’m interested in videogames and 3D graphics tech.
+- 👀 I’m interested in videogames and 3D graphics programming.
 - 🌱 I’m currently trying to learn C/C++.
 - 💞️ I’m looking to collaborate on some magical stuff :-)
 - 📫 Tou can find me in Discord: AnDruStein#1276.
